@@ -4,7 +4,8 @@ export const GlobalStyle = createGlobalStyle`
 :root {
   --background: #121212;
   --text: #fff;
-  --yellow: #ff1;
+  --purple: #6a20bd;
+  --blue: #1c20e2;
 }
     * {
       box-sizing: border-box;
